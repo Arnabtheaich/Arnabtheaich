@@ -1,15 +1,28 @@
-<!-- Arnab Aich -->
+<h1 align="center">Hi 👋, I'm Arnab Aich</h1>
 
-<p align="center" height="300px">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=F7942B&center=true&width=600&lines=%F0%9F%91%8B+Hey+There!+I+am+Obidur+Rahman;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Aspiring+Data Scientist;%E2%9A%9B%EF%B8%8F+Machine+Learning+Engineer;%E2%98%81%EF%B8%8F+Knowledgeable+in+AI+and+Software+Development;%E2%9A%A1+Studying+Pure+Mathematics](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&duration=2500&pause=1000&color=F7942B&center=true&width=600&lines=%F0%9F%91%8B+Hey+There!+I+am+Obidur+Rahman;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Aspiring+Mathematician;%E2%9A%9B%EF%B8%8F+Machine+Learning+Engineer;%E2%98%81%EF%B8%8F+Knowledgeable+in+AI+and+Software+Development;%E2%9A%A1+Studying+Pure+Mathematics)" alt="Hey There! I am Arnab Aich, Aspiring Data Scientist, Machine Learning Engineer, Knowledgeable in AI and Graphic design, Studying pure Mathematics" />
-<p/>
+<p align="center">
+  <a href="https://linkedin.com/in/arnabtheaich">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/>
+  </a>
+  <a href="https://arnabtheaich.hashnode.dev">
+    <img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=hashnode"/>
+  </a>
+</p>
 
-<p>👨🏻‍💻 I’m a third-year bachelor's student studying Mathematics at the University of Chittagong.</p>
-<p>🔬 My interests are in Machine Learning, DevOps and MLOps!</p>
-<p>📚 I am also interested in assisting others on their path in Tech.</p>
+> 👨🏻‍💻 I’m a third-year bachelor's student studying Mathematics at the University of Chittagong.  
+> 🔬 My interests are in Machine Learning, DevOps and MLOps!  
+> 📚 I am also interested in assisting others on their path in Tech.
 
-<div style="display: flex; justify-content: center; flex-wrap: nowrap;">
-<img src = "https://raw.githubusercontent.com/Arnabtheaich/github-stats-transparent/output/generated/overview.svg" style="max-width: 40%; height: auto;">
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Arnabtheaich&show_icons=true&theme=transparent" alt="Arnab's GitHub Stats" width="50%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnabtheaich&layout=compact&theme=transparent" alt="Arnab's Top Languages" width="42%"/>
 
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arnabtheaicht&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Arnabtheaich" /> </p>

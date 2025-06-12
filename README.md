@@ -1,8 +1,4 @@
-<!-- Arnab Aich -->
-
-<p align="center" height="300px">
-  <img src="https://komarev.com/ghpvc/?username=Arnabtheaich&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Hey There! I am Arnab Aich, Aspiring Data Scientist, Machine Learning Engineer, Knowledgeable in AI and Graphic design, Studying pure Mathematics" />
-<p/>
+<h1 align="center">Hi 👋, I'm Arnab Aich</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/arnabtheaich">

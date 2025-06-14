@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/arnabtheaich"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://arnabtheaich.hashnode.dev"><img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=hashnode" /></a>
+  <a href="https://www.linkedin.com/arnab-aich"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:Arnab.aichh@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.facebook.com/share/16gp9CiLqU/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.behance.net/arnabtheaich"><img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
 </p>
